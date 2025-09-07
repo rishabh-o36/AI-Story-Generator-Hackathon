@@ -17,6 +17,11 @@ Tone (e.g., dark, lighthearted, epic)
 Target audience (kids, teens, adults)
 Narrative Generation
 
+#Snippts
+
+
+![WhatsApp Image 2025-09-08 at 00 41 22_07f8d6e1](https://github.com/user-attachments/assets/a0297e4b-2a6a-4455-97c5-1483129d23a8)
+
 The system should expand the idea into a multi-part narrative, typically:
 Introduction / Setting
 Conflict / Rising Action
