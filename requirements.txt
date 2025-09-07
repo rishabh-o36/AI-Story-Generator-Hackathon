@@ -1,0 +1,7 @@
+streamlit
+transformers
+diffusers
+accelerate
+torch
+Pillow
+pyngrok
