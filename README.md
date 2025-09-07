@@ -42,3 +42,10 @@ cd AI-Story-Generator-Hackathon
  pip install -r requirements.txt
 
    streamlit run guvi.py
+
+
+
+
+   live application link 
+   
+   https://ai-story-generator-hackathon-ng4u7nxdi8eq3qxauv5kby.streamlit.app/
